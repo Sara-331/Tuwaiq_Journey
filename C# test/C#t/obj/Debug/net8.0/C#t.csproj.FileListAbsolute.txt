@@ -1,0 +1,14 @@
+c:\Users\agftywq\Desktop\C# test\C#t\bin\Debug\net8.0\C#t.exe
+c:\Users\agftywq\Desktop\C# test\C#t\bin\Debug\net8.0\C#t.deps.json
+c:\Users\agftywq\Desktop\C# test\C#t\bin\Debug\net8.0\C#t.runtimeconfig.json
+c:\Users\agftywq\Desktop\C# test\C#t\bin\Debug\net8.0\C#t.dll
+c:\Users\agftywq\Desktop\C# test\C#t\bin\Debug\net8.0\C#t.pdb
+c:\Users\agftywq\Desktop\C# test\C#t\obj\Debug\net8.0\C#t.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\agftywq\Desktop\C# test\C#t\obj\Debug\net8.0\C#t.AssemblyInfoInputs.cache
+c:\Users\agftywq\Desktop\C# test\C#t\obj\Debug\net8.0\C#t.AssemblyInfo.cs
+c:\Users\agftywq\Desktop\C# test\C#t\obj\Debug\net8.0\C#t.csproj.CoreCompileInputs.cache
+c:\Users\agftywq\Desktop\C# test\C#t\obj\Debug\net8.0\C#t.dll
+c:\Users\agftywq\Desktop\C# test\C#t\obj\Debug\net8.0\refint\C#t.dll
+c:\Users\agftywq\Desktop\C# test\C#t\obj\Debug\net8.0\C#t.pdb
+c:\Users\agftywq\Desktop\C# test\C#t\obj\Debug\net8.0\C#t.genruntimeconfig.cache
+c:\Users\agftywq\Desktop\C# test\C#t\obj\Debug\net8.0\ref\C#t.dll

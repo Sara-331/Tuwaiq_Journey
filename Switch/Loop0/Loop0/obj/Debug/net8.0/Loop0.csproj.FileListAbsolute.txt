@@ -1,0 +1,14 @@
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\bin\Debug\net8.0\Loop0.exe
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\bin\Debug\net8.0\Loop0.deps.json
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\bin\Debug\net8.0\Loop0.runtimeconfig.json
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\bin\Debug\net8.0\Loop0.dll
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\bin\Debug\net8.0\Loop0.pdb
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\obj\Debug\net8.0\Loop0.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\obj\Debug\net8.0\Loop0.AssemblyInfoInputs.cache
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\obj\Debug\net8.0\Loop0.AssemblyInfo.cs
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\obj\Debug\net8.0\Loop0.csproj.CoreCompileInputs.cache
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\obj\Debug\net8.0\Loop0.dll
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\obj\Debug\net8.0\refint\Loop0.dll
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\obj\Debug\net8.0\Loop0.pdb
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\obj\Debug\net8.0\Loop0.genruntimeconfig.cache
+c:\Users\agftywq\Desktop\عال\Switch\Loop0\Loop0\obj\Debug\net8.0\ref\Loop0.dll

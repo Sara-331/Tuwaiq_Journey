@@ -1,0 +1,28 @@
+c:\Users\agftywq\Desktop\math c#\math\bin\Debug\net8.0\math.exe
+c:\Users\agftywq\Desktop\math c#\math\bin\Debug\net8.0\math.deps.json
+c:\Users\agftywq\Desktop\math c#\math\bin\Debug\net8.0\math.runtimeconfig.json
+c:\Users\agftywq\Desktop\math c#\math\bin\Debug\net8.0\math.dll
+c:\Users\agftywq\Desktop\math c#\math\bin\Debug\net8.0\math.pdb
+c:\Users\agftywq\Desktop\math c#\math\obj\Debug\net8.0\math.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\agftywq\Desktop\math c#\math\obj\Debug\net8.0\math.AssemblyInfoInputs.cache
+c:\Users\agftywq\Desktop\math c#\math\obj\Debug\net8.0\math.AssemblyInfo.cs
+c:\Users\agftywq\Desktop\math c#\math\obj\Debug\net8.0\math.csproj.CoreCompileInputs.cache
+c:\Users\agftywq\Desktop\math c#\math\obj\Debug\net8.0\math.dll
+c:\Users\agftywq\Desktop\math c#\math\obj\Debug\net8.0\refint\math.dll
+c:\Users\agftywq\Desktop\math c#\math\obj\Debug\net8.0\math.pdb
+c:\Users\agftywq\Desktop\math c#\math\obj\Debug\net8.0\math.genruntimeconfig.cache
+c:\Users\agftywq\Desktop\math c#\math\obj\Debug\net8.0\ref\math.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\bin\Debug\net8.0\math.exe
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\bin\Debug\net8.0\math.deps.json
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\bin\Debug\net8.0\math.runtimeconfig.json
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\bin\Debug\net8.0\math.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\bin\Debug\net8.0\math.pdb
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\obj\Debug\net8.0\math.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\obj\Debug\net8.0\math.AssemblyInfoInputs.cache
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\obj\Debug\net8.0\math.AssemblyInfo.cs
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\obj\Debug\net8.0\math.csproj.CoreCompileInputs.cache
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\obj\Debug\net8.0\math.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\obj\Debug\net8.0\refint\math.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\obj\Debug\net8.0\math.pdb
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\obj\Debug\net8.0\math.genruntimeconfig.cache
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\math c#\math\obj\Debug\net8.0\ref\math.dll

@@ -1,0 +1,14 @@
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\bin\Debug\net8.0\bank account.exe
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\bin\Debug\net8.0\bank account.deps.json
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\bin\Debug\net8.0\bank account.runtimeconfig.json
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\bin\Debug\net8.0\bank account.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\bin\Debug\net8.0\bank account.pdb
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\obj\Debug\net8.0\bank account.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\obj\Debug\net8.0\bank account.AssemblyInfoInputs.cache
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\obj\Debug\net8.0\bank account.AssemblyInfo.cs
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\obj\Debug\net8.0\bank account.csproj.CoreCompileInputs.cache
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\obj\Debug\net8.0\bank account.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\obj\Debug\net8.0\refint\bank account.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\obj\Debug\net8.0\bank account.pdb
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\obj\Debug\net8.0\bank account.genruntimeconfig.cache
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\bank account\bank account\obj\Debug\net8.0\ref\bank account.dll

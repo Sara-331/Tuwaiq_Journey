@@ -1,0 +1,28 @@
+c:\Users\agftywq\Desktop\عال\array\array\obj\Debug\net8.0\array.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\agftywq\Desktop\عال\array\array\obj\Debug\net8.0\array.AssemblyInfoInputs.cache
+c:\Users\agftywq\Desktop\عال\array\array\obj\Debug\net8.0\array.AssemblyInfo.cs
+c:\Users\agftywq\Desktop\عال\array\array\obj\Debug\net8.0\array.csproj.CoreCompileInputs.cache
+c:\Users\agftywq\Desktop\عال\array\array\bin\Debug\net8.0\array.exe
+c:\Users\agftywq\Desktop\عال\array\array\bin\Debug\net8.0\array.deps.json
+c:\Users\agftywq\Desktop\عال\array\array\bin\Debug\net8.0\array.runtimeconfig.json
+c:\Users\agftywq\Desktop\عال\array\array\bin\Debug\net8.0\array.dll
+c:\Users\agftywq\Desktop\عال\array\array\bin\Debug\net8.0\array.pdb
+c:\Users\agftywq\Desktop\عال\array\array\obj\Debug\net8.0\array.dll
+c:\Users\agftywq\Desktop\عال\array\array\obj\Debug\net8.0\refint\array.dll
+c:\Users\agftywq\Desktop\عال\array\array\obj\Debug\net8.0\array.pdb
+c:\Users\agftywq\Desktop\عال\array\array\obj\Debug\net8.0\array.genruntimeconfig.cache
+c:\Users\agftywq\Desktop\عال\array\array\obj\Debug\net8.0\ref\array.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\bin\Debug\net8.0\array.exe
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\bin\Debug\net8.0\array.deps.json
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\bin\Debug\net8.0\array.runtimeconfig.json
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\bin\Debug\net8.0\array.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\bin\Debug\net8.0\array.pdb
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\obj\Debug\net8.0\array.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\obj\Debug\net8.0\array.AssemblyInfoInputs.cache
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\obj\Debug\net8.0\array.AssemblyInfo.cs
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\obj\Debug\net8.0\array.csproj.CoreCompileInputs.cache
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\obj\Debug\net8.0\array.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\obj\Debug\net8.0\refint\array.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\obj\Debug\net8.0\array.pdb
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\obj\Debug\net8.0\array.genruntimeconfig.cache
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\array\array\obj\Debug\net8.0\ref\array.dll

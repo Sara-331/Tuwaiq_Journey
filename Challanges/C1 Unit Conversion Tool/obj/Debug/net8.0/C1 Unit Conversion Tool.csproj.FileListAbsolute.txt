@@ -1,0 +1,14 @@
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\bin\Debug\net8.0\C1 Unit Conversion Tool.exe
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\bin\Debug\net8.0\C1 Unit Conversion Tool.deps.json
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\bin\Debug\net8.0\C1 Unit Conversion Tool.runtimeconfig.json
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\bin\Debug\net8.0\C1 Unit Conversion Tool.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\bin\Debug\net8.0\C1 Unit Conversion Tool.pdb
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\obj\Debug\net8.0\C1 Unit Conversion Tool.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\obj\Debug\net8.0\C1 Unit Conversion Tool.AssemblyInfoInputs.cache
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\obj\Debug\net8.0\C1 Unit Conversion Tool.AssemblyInfo.cs
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\obj\Debug\net8.0\C1 Unit Conversion Tool.csproj.CoreCompileInputs.cache
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\obj\Debug\net8.0\C1 Unit Conversion Tool.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\obj\Debug\net8.0\refint\C1 Unit Conversion Tool.dll
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\obj\Debug\net8.0\C1 Unit Conversion Tool.pdb
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\obj\Debug\net8.0\C1 Unit Conversion Tool.genruntimeconfig.cache
+c:\Users\agftywq\Desktop\Tuwaiq Game and VR\C#\Challanges\C1 Unit Conversion Tool\obj\Debug\net8.0\ref\C1 Unit Conversion Tool.dll

@@ -1,0 +1,14 @@
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\bin\Debug\net8.0\Decision.exe
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\bin\Debug\net8.0\Decision.deps.json
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\bin\Debug\net8.0\Decision.runtimeconfig.json
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\bin\Debug\net8.0\Decision.dll
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\bin\Debug\net8.0\Decision.pdb
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\obj\Debug\net8.0\Decision.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\obj\Debug\net8.0\Decision.AssemblyInfoInputs.cache
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\obj\Debug\net8.0\Decision.AssemblyInfo.cs
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\obj\Debug\net8.0\Decision.csproj.CoreCompileInputs.cache
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\obj\Debug\net8.0\Decision.dll
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\obj\Debug\net8.0\refint\Decision.dll
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\obj\Debug\net8.0\Decision.pdb
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\obj\Debug\net8.0\Decision.genruntimeconfig.cache
+c:\Users\agftywq\Desktop\C# test\Decision\Decision\obj\Debug\net8.0\ref\Decision.dll

@@ -1,0 +1,14 @@
+c:\Users\agftywq\Desktop\عال\Switch\Switch\bin\Debug\net8.0\Switch.exe
+c:\Users\agftywq\Desktop\عال\Switch\Switch\bin\Debug\net8.0\Switch.deps.json
+c:\Users\agftywq\Desktop\عال\Switch\Switch\bin\Debug\net8.0\Switch.runtimeconfig.json
+c:\Users\agftywq\Desktop\عال\Switch\Switch\bin\Debug\net8.0\Switch.dll
+c:\Users\agftywq\Desktop\عال\Switch\Switch\bin\Debug\net8.0\Switch.pdb
+c:\Users\agftywq\Desktop\عال\Switch\Switch\obj\Debug\net8.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\agftywq\Desktop\عال\Switch\Switch\obj\Debug\net8.0\Switch.AssemblyInfoInputs.cache
+c:\Users\agftywq\Desktop\عال\Switch\Switch\obj\Debug\net8.0\Switch.AssemblyInfo.cs
+c:\Users\agftywq\Desktop\عال\Switch\Switch\obj\Debug\net8.0\Switch.csproj.CoreCompileInputs.cache
+c:\Users\agftywq\Desktop\عال\Switch\Switch\obj\Debug\net8.0\Switch.dll
+c:\Users\agftywq\Desktop\عال\Switch\Switch\obj\Debug\net8.0\refint\Switch.dll
+c:\Users\agftywq\Desktop\عال\Switch\Switch\obj\Debug\net8.0\Switch.pdb
+c:\Users\agftywq\Desktop\عال\Switch\Switch\obj\Debug\net8.0\Switch.genruntimeconfig.cache
+c:\Users\agftywq\Desktop\عال\Switch\Switch\obj\Debug\net8.0\ref\Switch.dll
